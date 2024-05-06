@@ -13,12 +13,8 @@ This repository contains a React chat application integrated with Ollama, a natu
 
 ## Features
 
-- Real-time chat functionality using React and WebSocket.
-- Integration with Ollama for advanced chat capabilities.
-- User authentication and profile management.
-- Modern and intuitive user interface.
-- Customizable chat settings and preferences.
-- Support for multiple chat rooms and private messaging.
+- Real-time chat functionality using React.
+- Integration with Ollama.
 
 ## Installation
 
@@ -27,13 +23,13 @@ To get started, follow these steps:
 1. **Clone the repository**:
 
     ```shell
-    git clone https://github.com/your-username/react-chat-app-with-ollama.git
+    git clone https://github.com/peeyush-shivam/pw-assignment.git
     ```
 
 2. **Navigate to the project directory**:
 
     ```shell
-    cd react-chat-app-with-ollama
+    cd pw-assignment
     ```
 
 3. **Install dependencies**:
@@ -68,6 +64,4 @@ To configure the chat app and Ollama integration:
 
 Contributions are welcome! If you have any ideas, bug reports, or enhancements, please open an issue or submit a pull request. Make sure to follow the [code of conduct](CODE_OF_CONDUCT.md).
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
