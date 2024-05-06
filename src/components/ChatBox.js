@@ -1,4 +1,3 @@
-import { useSelector } from "react-redux";
 import Response from "./Response";
 import Prompt from "./Prompt";
 
